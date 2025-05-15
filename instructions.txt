@@ -1,0 +1,28 @@
+Dear Students,
+
+This is to inform you about the important requirements and submission guidelines for the ICTWEB514 – Create Dynamic Web Pages. Please read the instructions carefully and follow them strictly as this is a very important unit, and your competency depends on the successful completion of all tasks.
+
+You are required to develop three (3) fully functional websites with following details:
+
+1.      Using PHP programming language. All websites must be developed using the XAMPP server for local hosting and should follow a proper MVC (Model-View-Controller) framework structure.
+
+2.      Each website must include a user registration and login functionality with proper validation.
+
+3.      You are also required to use MySQL database for storing user and website data. Front end development should be done using HTML, CSS, and JavaScript. You can use Bootstrap for responsive design, if required.
+
+The final submission deadline for this project is Sunday, 18th May 2025. No extensions will be provided, so please plan and manage your time effectively. It is mandatory to provide a proper demonstration of your work.
+
+You must include step-by-step screenshots of your project, such as XAMPP installation, database creation in phpMyAdmin, folder structure of MVC, code implementation, user registration and login process, and the final output of your websites.
+
+Please note that without proper demonstration, screenshots, and working code, you will be marked Not Yet Competent (NYC) for this unit. Therefore, it is very important that you follow the instructions carefully and submit all required evidence along with your project.
+
+If you have any questions or need assistance, feel free to contact me. I hope all the  project requirements will be satisfied and look forward to seeing your creative and functional website developments. Please find the attachments for this unit.
+
+Kind Regards,
+Manish Lamichhane
+
+Trainer & Assessor
+
+Britts College
+
+ADIT | DIT

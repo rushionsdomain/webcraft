@@ -1,0 +1,42 @@
+Guidance: Understanding the Purpose
+
+The purpose of this project is to demonstrate your ability to build three fully functional, dynamic websites that allow users to interact with them through registration and login systems. Each website should be developed using PHP for server-side logic, MySQL for storing user data, and HTML, CSS, and JavaScript for the front-end user interface, all organized in an MVC (Model-View-Controller) structure. By hosting these sites locally on XAMPP, you’ll simulate a real web server environment. The project also requires you to test, validate, and document your work to ensure it meets professional standards, including accessibility and security.
+
+In simpler terms:
+
+What you’re building: Three websites where users can sign up (register) and log in, with each site having slightly different features (e.g., a datepicker for one, a comments field for another).
+
+
+Why: To show you can create interactive websites that handle user data securely, work across different browsers, and follow best practices for web development.
+
+
+How it fits together:
+
+    PHP processes user inputs (like form submissions).
+
+    MySQL stores user information (like usernames and passwords).
+
+    HTML/CSS/JavaScript makes the sites look good and user-friendly.
+
+    MVC organizes your code to keep it clean and maintainable.
+
+    XAMPP lets you test everything on your computer.
+
+
+
+Why it matters: This project teaches you practical web development skills, like coding, database management, user interface design, and testing, which are essential for a career as a web developer.
+
+
+Key Objectives:
+Create Interactive Websites: Each site must allow users to register and log in, proving you can build dynamic (interactive) websites, unlike static ones that just display fixed content.
+
+Use a Structured Approach: The MVC framework helps you organize your code into three parts:
+    Model: Manages data (e.g., saving user info to MySQL).
+
+    View: Shows the user interface (e.g., forms built with HTML/CSS).
+
+    Controller: Handles logic (e.g., checking if a password is correct).
+
+Ensure Functionality and Quality: You’ll test the sites to ensure they work correctly (e.g., forms validate inputs, pages load in different browsers) and are accessible (e.g., usable by screen readers).
+
+Document Your Work: Screenshots and a test plan show your process and prove your sites meet the requirements, preparing you for real-world project reporting.
