@@ -27,5 +27,11 @@ class Database {
         $stmt->execute([$username]);
         return $stmt->fetch(PDO::FETCH_ASSOC);
     }
+
+    public function getAllAppointments() {
+        $stmt = $this->pdo->prepare("SELECT first_name, username, appointment_date FROM users WHERE appointment_date IS NOT NULL");
+        $stmt->execute();
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
+    }
 }
 ?>

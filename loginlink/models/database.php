@@ -27,5 +27,11 @@ class Database {
         $stmt->execute([$username]);
         return $stmt->fetch(PDO::FETCH_ASSOC);
     }
+
+    public function getAllUsers() {
+        $stmt = $this->pdo->prepare("SELECT first_name, username, created_at FROM users");
+        $stmt->execute();
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
+    }
 }
 ?>
